@@ -1,4 +1,4 @@
-### **Introduction**
+### **Loan Default Prediction**
 
 Financial institutions face a constant challenge: balancing the need to provide loans with the risk of borrowers defaulting. Every default not only leads to financial loss but also affects trust and long-term sustainability. With the rise of digital lending platforms, the ability to anticipate potential defaults has become more important than ever.
 
