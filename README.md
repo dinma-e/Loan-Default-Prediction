@@ -6,6 +6,8 @@ As part of my data science journey, I worked on this project as the capstone for
 
 This project highlights both the opportunities and challenges of applying machine learning in financial contexts, especially when working with limited data, and serves as a step forward in strengthening my skills as a data scientist.
 
+All datasets, the full notebook and the power bi file are contained in this repository.
+
 Read the full medium documentation here:
 
 
