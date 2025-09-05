@@ -1,4 +1,5 @@
-**Introduction**
+### **Introduction**
+
 Financial institutions face a constant challenge: balancing the need to provide loans with the risk of borrowers defaulting. Every default not only leads to financial loss but also affects trust and long-term sustainability. With the rise of digital lending platforms, the ability to anticipate potential defaults has become more important than ever.
 
 As part of my data science journey, I worked on this project as the capstone for my Data Science course with Axia Africa. The aim was to apply machine learning techniques to the problem of loan default prediction by exploring how well models can classify borrowers while also uncovering insights from the data. Rather than focusing solely on model accuracy, my goal was to understand the dataset, build predictive models, evaluate their performance, and reflect on the lessons learned.
