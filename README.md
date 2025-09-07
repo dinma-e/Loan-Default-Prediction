@@ -8,10 +8,10 @@ This project highlights both the opportunities and challenges of applying machin
 
 All datasets, the full notebook and the power bi file are contained in this repository.
 
-Read the full medium documentation here:
+Read the full Medium documentation here:
 
 https://medium.com/@chimdinmaegele/predicting-loan-defaults-with-ml-building-evaluating-and-learning-a562dcc235fc
 
-Interactive power bi dashboard:
+Interactive Power BI dashboard:
 
 https://app.powerbi.com/reportEmbed?reportId=9eefabf1-f418-44d0-bc2f-3e9c2d50cce7&autoAuth=true&ctid=da3e188a-b91b-4f83-8e49-5482d866ee01&navContentPaneEnabled=false
