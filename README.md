@@ -10,7 +10,7 @@ All datasets, the full notebook and the power bi file are contained in this repo
 
 Read the full medium documentation here:
 
-
+https://medium.com/@chimdinmaegele/predicting-loan-defaults-with-ml-building-evaluating-and-learning-a562dcc235fc
 
 Interactive power bi dashboard:
 
